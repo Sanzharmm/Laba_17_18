@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Hotels>
+                                        
+    
+    
+    
+    
+    
+    
+    
+    
+    <Hotel name="Хан Тенгри"/>
+                                        
+    
+    
+    
+    
+    
+    
+    
+    
+    <Hotel name="All">
+                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        <Room number="101" price="2000">
+                                                                                                            
+            
+            
+            
+            
+            
+            
+            
+            <Client days="22"/>
+                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        </Room>
+                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        <Room number="102" price="10000">
+                                                            
+            
+            
+            
+            <Client days="3"/>
+                                                        
+        
+        
+        
+        </Room>
+                                                                            
+    
+    
+    
+    
+    
+    
+    
+    
+    </Hotel>
+                                        
+    
+    
+    
+    
+    
+    
+    
+    
+    <Hotel name="Балыкчы">
+                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        <Room number="101" price="1000"/>
+                                                                            
+    
+    
+    
+    
+    
+    
+    
+    
+    </Hotel>
+                                        
+    
+    
+    
+    
+    
+    
+    
+    
+    <Hotel name="Отель">
+                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        <Room number="101" price="2000">
+                                                                                                                                    
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <Client days="10"/>
+                                                                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        </Room>
+                                                                            
+    
+    
+    
+    
+    
+    
+    
+    
+    </Hotel>
+                                    
+
+
+
+
+
+
+    
+    
+    <Hotel name="INAI">
+                        
+        
+        <Room number="508" price="1500">
+                                    
+            
+            <Client days="3"/>
+                                
+        
+        </Room>
+                    
+    
+    </Hotel>
+        
+    
+    <Hotel name="KG">
+                
+        <Room number="509" price="1000">
+                        
+            <Client days="3"/>
+                    
+        </Room>
+            
+    </Hotel>
+    
+    <Hotel name="2"/>
+</Hotels>
